@@ -26,6 +26,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | October  | Melbourne, Australia               | [AISA Cybercon](https://cyberconference.com.au/) | Unknown |
 | October  | Indore, India                      | [Hakon India](http://www.hakonindia.org/) | Unknown |
 | October  | Melbourne, Victoria, Australia     | [OWASP AppSec Day](https://appsecday.io/) | Unknown |
+| November | Wellington, New Zealand            | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
 | November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) | 2048 |
 | December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) | Unknown |
 | December | Adelaide, South Australia, Australia | [Kangacrypt](https://kangacrypt.info) | Unknown - new conference |
@@ -82,6 +83,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ## New Zealand
 ### Wellington
 - [Kiwicon](https://www.kiwicon.org/)
+- [purplecon](https://purplecon.nz/)
 
 ### Christchurch
 - [CHCon](https://2018.chcon.nz/)
