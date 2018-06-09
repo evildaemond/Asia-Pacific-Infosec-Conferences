@@ -5,9 +5,20 @@
     "conferenceURL":"https://www.crikeycon.com/",
     "location":"Brisbane, Queensland, Australia",
     "locationStreet":"50 Oxlade Drive, New Farm, Brisbane, Queensland, Australia",
-    "dateMonth":"Febuary",
+    "dateMonth":"February",
     "dateStartDayMonthYear":"24/02/2018",
     "dateEndDayMonthYear":"24/02/2018"
+},
+{
+    "conferenceName": "BSides Melbourne",
+    "isConfirmed": "TRUE",
+    "conferenceAttendees": "Unknown",
+    "conferenceURL": "https://www.bsidesmelbourne.com/",
+    "location": "Melbourne, Victoria, Australia",
+    "locationStreet": "",
+    "dateMonth": "February",
+    "dateStartDayMonthYear": "16/02/2019",
+    "dateEndDayMonthYear": "17/02/2019"
 },
 {
     "conferenceName": "Blackhat Asia",
@@ -207,16 +218,16 @@
     "dateStartDayMonthYear": "19/10/2018",
     "dateEndDayMonthYear": "19/10/2018"
 },
- {
-    "conferenceName": "purplecon",
-    "isConfirmed":"TRUE",
-    "conferenceAttendees": "Unknown",
-    "conferenceURL": "https://purplecon.nz/",
-    "location": "Wellington, New Zealand",
-    "locationStreet": "111 Wakefield St, Wellington, New Zealand",
-    "dateMonth": "November",
-    "dateStartDayMonthYear": "15/11/2018",
-    "dateEndDayMonthYear": "15/11/2018"
+{
+   "conferenceName": "purplecon",
+   "isConfirmed": "TRUE",
+   "conferenceAttendees": "Unknown",
+   "conferenceURL": "https://purplecon.nz/",
+   "location": "Wellington, New Zealand",
+   "locationStreet": "111 Wakefield St, Wellington, New Zealand",
+   "dateMonth": "November",
+   "dateStartDayMonthYear": "15/11/2018",
+   "dateEndDayMonthYear": "15/11/2018"
 },
 {
     "conferenceName": "Kiwicon",
